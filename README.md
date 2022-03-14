@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Md Alishan Ali</h1>
 <h3 align="center">A passionate software developer and many more....</h3>
-
+Tech Stack 
+html5 css3 bootstrap tailwind javascript nodejs expressjs mongodb npm postman github reactjs redux material-ui styled-components
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdalishanali&label=Profile%20views&color=0e75b6&style=flat" alt="mdalishanali" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdalishanali" alt="mdalishanali" /></a> </p>
