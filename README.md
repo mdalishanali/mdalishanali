@@ -42,12 +42,6 @@
 </p>
 
 
-<h3><i>GitHub's Stats <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdalishanali&theme=react&show_icons=true&locale=en&layout=compact" alt="mdalishanali" />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdalishanali&theme=react&show_icons=true&locale=en" alt="mdalishanali" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdalishanali&theme=react" alt="mdalishanali" /></p>
-
 
 
 
